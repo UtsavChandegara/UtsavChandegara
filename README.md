@@ -6,7 +6,9 @@
 
 <p align="center">
   <a href="https://github.com/UtsavChandegara"><img src="https://img.shields.io/badge/GitHub-UtsavChandegara-181717?logo=github&logoColor=white" /></a>
-  <a href="mailto:utsavchandegara@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&to=utsavchandegara@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white" alt="Email me" />
+  </a>
   <a href="(https://www.linkedin.com/in/utsav-chandegara-89274431b/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white" /></a>
 </p>
 
