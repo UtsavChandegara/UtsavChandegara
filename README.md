@@ -102,7 +102,7 @@ Repository: https://github.com/UtsavChandegara/paisalog
 ### Connect With Me
 - GitHub: https://github.com/UtsavChandegara
 - Email: utsavchandegara@gmail.com
-- LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/utsav-chandegara-89274431b/)
+- LinkedIn: (https://www.linkedin.com/in/utsav-chandegara-89274431b/)
 
 ---
 
