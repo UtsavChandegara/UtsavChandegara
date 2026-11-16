@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://github.com/UtsavChandegara"><img src="https://img.shields.io/badge/GitHub-UtsavChandegara-181717?logo=github&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:utsavchandegara@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="(https://www.linkedin.com/in/utsav-chandegara-89274431b/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -55,19 +55,7 @@ Repository: https://github.com/UtsavChandegara/MER-Lab
 
 ---
 
-#### 2. PaisaLog
-A personal finance tracker for recording transactions, daily balances, and shared expenses using FastAPI and SQLite.
-
-- 💰 Expense management
-- 📊 Financial statements
-- 🧾 Social ledger support
-- 🌐 Simple web interface
-
-Repository: https://github.com/UtsavChandegara/paisalog
-
----
-
-#### 3. HandIntent
+#### 2. HandIntent
 A gesture-based intent recognition project using webcam input and hand tracking to infer user actions for touchless interaction.
 
 - 🤖 Computer vision
@@ -76,6 +64,18 @@ A gesture-based intent recognition project using webcam input and hand tracking 
 - ⚡ Real-time interaction
 
 Repository: https://github.com/UtsavChandegara/handintent
+
+---
+
+#### 3. PaisaLog
+A personal finance tracker for recording transactions, daily balances, and shared expenses using FastAPI and SQLite.
+
+- 💰 Expense management
+- 📊 Financial statements
+- 🧾 Social ledger support
+- 🌐 Simple web interface
+
+Repository: https://github.com/UtsavChandegara/paisalog
 
 ---
 
@@ -101,8 +101,8 @@ Repository: https://github.com/UtsavChandegara/handintent
 
 ### Connect With Me
 - GitHub: https://github.com/UtsavChandegara
-- Email: your-email@example.com
-- LinkedIn: https://linkedin.com/in/your-profile
+- Email: utsavchandegara@gmail.com
+- LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/utsav-chandegara-89274431b/)
 
 ---
 
